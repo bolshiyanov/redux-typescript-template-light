@@ -1,4 +1,4 @@
 # react-redux-thunk-template-light
 
- [Open project](https://github.com/facebook/create-react-app).
+ [Open project](https://redux-typescript-template-light.vercel.app/).
 
